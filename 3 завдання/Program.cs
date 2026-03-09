@@ -17,3 +17,6 @@ foreach(int z in select)
 
 
 Console.ReadKey();
+// Тестування роботи Git через термінал
+//hello world
+//awdadw
